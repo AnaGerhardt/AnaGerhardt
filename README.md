@@ -2,7 +2,7 @@
 
 I'm a front-end developer working mainly with JavaScript, TypeScript, and React.
 
-## 🚀 Projects
+## Projects
 
 - [Betting App](https://github.com/AnaGerhardt/betting-app): A sports betting website built with Next.js, Zustand and TailwindCSS.
 
